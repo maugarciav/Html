@@ -41,8 +41,13 @@
     <input type="checkbox" name="programming" id="" value="Python">Python
     <br>
 
+    <!-- opcion en lista -->
     <p>Please select yout favortite coding languege</p>
-    <select name="languages" id=""></select>
+    <select name="languages" id="">
+      <option value="javascript" >Javascript</option>
+      <option value="java" >Java</option>
+      <option value="python" >Python</option>
+    </select>
     <br>
 
 

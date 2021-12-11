@@ -21,3 +21,5 @@ para subir paginas web: https://app.netlify.com/teams/mau-villanueva2002/overvie
 
 iconos: https://fontawesome.com/start
 
+fonts: https://fonts.google.com/
+

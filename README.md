@@ -22,4 +22,4 @@ iconos: https://fontawesome.com/start
 fonts: https://fonts.google.com/
 
 iconos en las pestañas: https://favicon.io/
-<link rel="shortcut icon" href="./images/test.ico"/>
+rel="shortcut icon" 

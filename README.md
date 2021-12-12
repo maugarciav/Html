@@ -7,8 +7,6 @@ Este es el comienzo de EL mejor programador
 
 
 
-
-
 -----
 para descargar imagenes sin cr: https://www.pexels.com/es-es/
 

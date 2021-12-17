@@ -8,7 +8,7 @@ Este es el comienzo de EL mejor programador
 
 
 -----
-para descargar imagenes sin cr: https://www.pexels.com/es-es/
+para descargar imagenes sin cr: https://www.pexels.com/es-es/ y videos: https://www.pexels.com/es-es/videos/
 
 
 recopilador de datos(aun no se php): https://formspree.io/forms
@@ -23,3 +23,6 @@ fonts: https://fonts.google.com/
 
 iconos en las pestañas: https://favicon.io/
 rel="shortcut icon" 
+
+hacer figuras :
+https://bennettfeely.com/clippy/

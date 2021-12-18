@@ -27,3 +27,12 @@ rel="shortcut icon"
 
 hacer figuras :
 https://bennettfeely.com/clippy/
+
+
+
+
+
+-----------------------------------------------
+Para hacer nuestras default de fonts
+
+buscamos las que nos gustan aqui ya sea aqui: https://www.fontpair.co/fonts o https://www.pagecloud.com/blog/best-google-fonts-pairings, y una vez que conozcamos sus nombre https://type-scale.com/ ahi podemos obtener el codigo para el css

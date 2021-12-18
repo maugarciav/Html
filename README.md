@@ -20,6 +20,7 @@ para subir paginas web: https://app.netlify.com/teams/mau-villanueva2002/overvie
 iconos: https://fontawesome.com/start
 
 fonts: https://fonts.google.com/
+fonts MEJORES: https://www.fontpair.co/fonts
 
 iconos en las pestañas: https://favicon.io/
 rel="shortcut icon" 

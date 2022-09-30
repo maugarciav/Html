@@ -8,24 +8,24 @@ Este es el comienzo de EL mejor programador
 
 
 -----
-para descargar imagenes sin cr: https://www.pexels.com/es-es/ y videos: https://www.pexels.com/es-es/videos/
+Para descargar imagenes sin cr: https://www.pexels.com/es-es/ y videos: https://www.pexels.com/es-es/videos/
 
 
-recopilador de datos(aun no se php): https://formspree.io/forms
+Recopilador de datos(aun no se php): https://formspree.io/forms
 
 
-para subir paginas web: https://app.netlify.com/teams/mau-villanueva2002/overview?_ga=2.25915005.1549425069.1639179735-983066895.1639179735
+Para subir paginas web: https://app.netlify.com/teams/mau-villanueva2002/overview?_ga=2.25915005.1549425069.1639179735-983066895.1639179735
 
 
-iconos: https://fontawesome.com/start
+Iconos: https://fontawesome.com/start
 
-fonts: https://fonts.google.com/
-fonts MEJORES: https://www.fontpair.co/fonts
+Fonts: https://fonts.google.com/
+Fonts MEJORES: https://www.fontpair.co/fonts
 
-iconos en las pestañas: https://favicon.io/
+Iconos en las pestañas: https://favicon.io/
 rel="shortcut icon" 
 
-hacer figuras :
+Hacer figuras :
 https://bennettfeely.com/clippy/
 
 
